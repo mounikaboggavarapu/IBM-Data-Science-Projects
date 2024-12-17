@@ -11,14 +11,4 @@ This repository contains the projects/assignments for courses in the *IBM Data S
 8. Machine Learning with Python
 9. Applied Data Science Capstone
 
-Project/assignment notebooks for courses 2, 4, 5, 6, 7, 8 and 9 are included in this repository. Courses 1 and 3 only have quizzes as part of their assignments. Hence, there are no notebooks for them.
-
-The last course, *Applied Data Science Capstone*, has multiple submissions. These include:
-1. A basic introduction to the capstone project notebook for week 1 of the course
-2. An assignment notebook for week 3 of the course
-3. A PDF document highlighting the introduction and data collection for the final project for week 4 of the course
-4. The final project notebook, project report, and project presentation for week 5 of the course
-
-All of the files mentioned above can be found at https://github.com/raunakbhutoria/Coursera_Capstone. The Coursera_Capstone repository was the one used for making all submissions for the capstone course. Thus, in this repository I will only be including the Week 3 assignment notebook and the final project code notebook. In order to view the report, presentation, and other materials of the capstone course, please visit my Coursera_Capstone repository.
-
-# Thank You!
+These are my projects which I have done for certification.
